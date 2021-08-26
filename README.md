@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @ChrisOIchi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ChrisOIchi/ChrisOIchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hola, soy @ChrisOIchi
+
+👨‍🎓 Soy un estudiante de la carrera de Ing. en Sistemas Computacionales en el Instituto Tecnologico de Tijuana estoy en 7mo semestre y es la primera vez que utilizo GitHub.
+* Especialidad: Bases de Datos
+
+### Intereses
+
+* Canada 🍁
+
+
+## Horiario de clases
 
 | Horario |           Lunes           |           Martes          |         Miercoles         |           Jueves          |         Viernes        |
 |:-------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:----------------------:|
@@ -21,3 +23,6 @@ You can click the Preview link to take a look at your changes.
 |   6 pm  |     Comp. Distribuido     |     Comp. Distribuido     |     Comp. Distribuido     |     Comp. Distribuido     |    Comp. Distribuido   |
 |   7 pm  |   Est. y Analis de Datos  |   Est. y Analis de Datos  |   Est. y Analis de Datos  |   Est. y Analis de Datos  | Est. y Analis de Datos |
 
+
+
+> “Pass on what you have learned.” – Yoda
