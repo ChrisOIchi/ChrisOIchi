@@ -1,12 +1,14 @@
 
 # 👋 Hola, soy @ChrisOIchi
 
-👨‍🎓 Soy un estudiante de la carrera de Ing. en Sistemas Computacionales en el Instituto Tecnologico de Tijuana estoy en 7mo semestre y es la primera vez que utilizo GitHub.
-* Especialidad: Bases de Datos
+👨‍🎓 Soy un estudiante de la carrera de Ing. en Sistemas Computacionales en el Instituto Tecnologico de Tijuana estoy en 9no semestre y estoy mejorando mis habilidades para utilizar GitHub.
+* Especialidad: Desarrollo de Software
 
 ### Intereses
 
 * Canada 🍁
+* Python 🐍
+* Django
 
 
 ## Horiario de clases
