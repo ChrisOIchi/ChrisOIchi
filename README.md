@@ -1,30 +1,22 @@
+## Hi there, I'm Chris! 👋
 
-# 👋 Hola, soy @ChrisOIchi
+- 🌎 I'm from Mexico and currently living in Baja California.
+- 🎓 I studied Computer Systems Engineering with a specialization in Software Development.
+- 💻 I'm passionate about interface design, web application development, and technologies like Python.
+- 🌐 I love learning and putting into practice what I learn.
 
-👨‍🎓 Soy un estudiante de la carrera de Ing. en Sistemas Computacionales en el Instituto Tecnologico de Tijuana estoy en 9no semestre y estoy mejorando mis habilidades para utilizar GitHub.
-* Especialidad: Desarrollo de Software
+### Interests
 
-### Intereses
+- 🎨 Interface Design
+- 🌐 Web Application Development
+- 🐍 Python
 
-* Canada 🍁
-* Python 🐍
-* Django
+### Fun Facts
 
+- 🏯 I dream of visiting Japan and immersing myself in its rich culture.
 
-## Horiario de clases
+### Motto
 
-| Horario |           Lunes           |           Martes          |         Miercoles         |           Jueves          |         Viernes        |
-|:-------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:----------------------:|
-|  11 am  |         Simulación        |         Simulación        |         Simulación        |         Simulación        |       Simulación       |
-|  12 pm  |                           |                           |                           |                           |                        |
-|   1 pm  |      Ing. de software     |      Ing. de software     |      Ing. de software     |      Ing. de software     |    Ing. de software    |
-|   2 pm  |      T. Base de Datos     |      T. Base de Datos     |      T. Base de Datos     |      T. Base de Datos     |                        |
-|   3 pm  |                           |                           |                           |                           |                        |
-|   4 pm  |      Fund. de Telecom     |      Fund. de Telecom     |      Fund. de Telecom     |      Fund. de Telecom     |                        |
-|   5 pm  | **Sistemas Programables** | **Sistemas Programables** | **Sistemas Programables** | **Sistemas Programables** |                        |
-|   6 pm  |     Comp. Distribuido     |     Comp. Distribuido     |     Comp. Distribuido     |     Comp. Distribuido     |    Comp. Distribuido   |
-|   7 pm  |   Est. y Analis de Datos  |   Est. y Analis de Datos  |   Est. y Analis de Datos  |   Est. y Analis de Datos  | Est. y Analis de Datos |
+"Embrace the challenge, enjoy the journey. Each line of code tells a story of growth and exploration."
 
-
-
-> “Pass on what you have learned.” – Yoda
+Let's connect and learn together! 😄
